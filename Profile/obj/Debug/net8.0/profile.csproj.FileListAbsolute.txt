@@ -1,0 +1,24 @@
+C:\Users\mishr\Desktop\Project\profile\bin\Debug\net8.0\profile.deps.json
+C:\Users\mishr\Desktop\Project\profile\bin\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\profile\bin\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.csproj.AssemblyReference.cache
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\refint\profile.dll
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\profile\obj\Debug\net8.0\ref\profile.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\bin\Debug\net8.0\profile.deps.json
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\bin\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\bin\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.csproj.AssemblyReference.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\refint\profile.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile\obj\Debug\net8.0\ref\profile.dll

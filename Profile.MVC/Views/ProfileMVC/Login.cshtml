@@ -1,0 +1,47 @@
+﻿@model Profile.Shared.Login
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h2>Login</h2>
+
+<form asp-action="Login" asp-controller="ProfileMVC" method="post">
+
+    <div>
+        <label asp-for="username">Username</label>
+        <input asp-for="username" type="text" />
+        <span asp-validation-for="username"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="password">Password</label>
+        <input asp-for="password" type="password" />
+        <span asp-validation-for="password"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="role">Role</label>
+        <select asp-for="role">
+            <option value="">-- Select Role --</option>
+            <option value="User">Manager</option>
+            <option value="Admin">Admin</option>
+        </select>
+        <span asp-validation-for="role"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Login</button>
+
+</form>
+<a asp-action="Register" asp-controller="ProfileMVC">Register</a>
+<a asp-action="Index" asp-controller="ProfileMVC">Detail</a>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

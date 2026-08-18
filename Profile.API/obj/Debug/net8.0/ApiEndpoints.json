@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Profile.API.Controllers.ProfileAPIController",
+    "Method": "CreateProfile",
+    "RelativePath": "api/ProfileAPI/CreateProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "Profile.Shared.Register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Profile.API.Controllers.ProfileAPIController",
+    "Method": "GetAllProfiles",
+    "RelativePath": "api/ProfileAPI/GetAllProfiles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Profile.API.Controllers.ProfileAPIController",
+    "Method": "GetProfileByid",
+    "RelativePath": "api/ProfileAPI/GetProfileByid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Profile.API.Controllers.ProfileAPIController",
+    "Method": "Login",
+    "RelativePath": "api/ProfileAPI/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Profile.Shared.Login",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Profile.API.Controllers.ProfileAPIController",
+    "Method": "ProfieDelete",
+    "RelativePath": "api/ProfileAPI/ProfieDelete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

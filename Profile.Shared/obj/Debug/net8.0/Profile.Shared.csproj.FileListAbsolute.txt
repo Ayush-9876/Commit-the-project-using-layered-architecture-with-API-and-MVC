@@ -1,0 +1,22 @@
+C:\Users\mishr\Desktop\Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.deps.json
+C:\Users\mishr\Desktop\Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\refint\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile.Shared\obj\Debug\net8.0\ref\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.deps.json
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\bin\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\refint\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\ref\Profile.Shared.dll

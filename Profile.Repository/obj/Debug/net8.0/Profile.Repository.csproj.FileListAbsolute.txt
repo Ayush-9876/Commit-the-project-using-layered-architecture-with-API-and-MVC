@@ -1,0 +1,38 @@
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.deps.json
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.pdb
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Data.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Data.pdb
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile.Repository\bin\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.csproj.AssemblyReference.cache
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile..ED61B9B2.Up2Date
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\refint\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.pdb
+C:\Users\mishr\Desktop\Project\Profile.Repository\obj\Debug\net8.0\ref\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.deps.json
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Repository.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Data.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\profile.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Data.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\Profile.Shared.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\bin\Debug\net8.0\profile.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.csproj.AssemblyReference.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.AssemblyInfoInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.AssemblyInfo.cs
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile..ED61B9B2.Up2Date
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\refint\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.pdb
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\ref\Profile.Repository.dll

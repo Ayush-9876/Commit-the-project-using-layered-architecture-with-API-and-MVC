@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="../Profile.API/Profile.API.csproj" />
+  <Project Path="../Profile.Data/Profile.Data.csproj" />
+  <Project Path="../Profile.MVC/Profile.MVC.csproj" />
+  <Project Path="../Profile.Repository/Profile.Repository.csproj" />
+  <Project Path="../Profile.Shared/Profile.Shared.csproj" />
+  <Project Path="profile.csproj" />
+</Solution>
