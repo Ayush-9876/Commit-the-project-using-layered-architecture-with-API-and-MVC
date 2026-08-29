@@ -320,3 +320,4 @@ C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\refi
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Profile.API.pdb
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Profile.API.genruntimeconfig.cache
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\ref\Profile.API.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Profile.API.sourcelink.json

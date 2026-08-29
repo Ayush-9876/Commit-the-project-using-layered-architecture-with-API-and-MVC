@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22371BE7-0BE2-4461-DE5B-7A70D7FC302F}|..\\Profile.API\\Profile.API.csproj|c:\\users\\mishr\\desktop\\project\\profile project\\profile.api\\controllers\\profileapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22371BE7-0BE2-4461-DE5B-7A70D7FC302F}|..\\Profile.API\\Profile.API.csproj|c:\\users\\mishr\\desktop\\project\\profile project\\profile.api\\jwt\\jwtvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22371BE7-0BE2-4461-DE5B-7A70D7FC302F}|..\\Profile.API\\Profile.API.csproj|c:\\users\\mishr\\desktop\\project\\profile project\\profile.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22371BE7-0BE2-4461-DE5B-7A70D7FC302F}|..\\Profile.API\\Profile.API.csproj|c:\\users\\mishr\\desktop\\project\\profile project\\profile.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\Controllers\\ProfileAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,11 +93,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "JWTValue.cs",
+              "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\JWT\\JWTValue.cs",
+              "RelativeDocumentMoniker": "..\\Profile.API\\JWT\\JWTValue.cs",
+              "ToolTip": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\JWT\\JWTValue.cs",
+              "RelativeToolTip": "..\\Profile.API\\JWT\\JWTValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T17:10:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Profile.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\appsettings.json",
+              "RelativeToolTip": "..\\Profile.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-29T17:00:02.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Profile.API\\Program.cs",
+              "ToolTip": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\Program.cs",
+              "RelativeToolTip": "..\\Profile.API\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:54:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\Controllers\\ProfileAPIController.cs",
+              "RelativeDocumentMoniker": "..\\Profile.API\\Controllers\\ProfileAPIController.cs",
+              "ToolTip": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile.API\\Controllers\\ProfileAPIController.cs*",
+              "RelativeToolTip": "..\\Profile.API\\Controllers\\ProfileAPIController.cs*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T15:45:03.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "JWTValue.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\JWT\\JWTValue.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.API\\JWT\\JWTValue.cs",
@@ -93,11 +157,12 @@
               "RelativeToolTip": "..\\..\\Profile.API\\JWT\\JWTValue.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T15:53:01.617Z"
+              "WhenOpened": "2026-08-18T15:53:01.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Views\\ProfileMVC\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Views\\ProfileMVC\\Index.cshtml",
@@ -105,11 +170,12 @@
               "RelativeToolTip": "..\\..\\Profile.MVC\\Views\\ProfileMVC\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-16T11:06:35.79Z"
+              "WhenOpened": "2026-08-16T11:06:35.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ProfileAPIController.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\Controllers\\ProfileAPIController.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.API\\Controllers\\ProfileAPIController.cs",
@@ -122,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProfileInterfaceImplement.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Repository\\ProfileInterfaceImplement.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Repository\\ProfileInterfaceImplement.cs",
@@ -130,11 +196,12 @@
               "RelativeToolTip": "..\\..\\Profile.Repository\\ProfileInterfaceImplement.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAxwFIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T18:04:56.96Z"
+              "WhenOpened": "2026-08-04T18:04:56.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.API\\Program.cs",
@@ -146,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Profile.API.csproj",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\Profile.API.csproj",
               "RelativeDocumentMoniker": "..\\..\\Profile.API\\Profile.API.csproj",
@@ -158,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Program.cs",
@@ -170,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProfileMVCController.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Controllers\\ProfileMVCController.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Controllers\\ProfileMVCController.cs",
@@ -178,11 +245,12 @@
               "RelativeToolTip": "..\\..\\Profile.MVC\\Controllers\\ProfileMVCController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwB4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-04T16:54:26.524Z"
+              "WhenOpened": "2026-08-04T16:54:26.524Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Views\\ProfileMVC\\Register.cshtml",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Views\\ProfileMVC\\Register.cshtml",
@@ -194,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Profilemodel.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile\\Profilemodel.cs",
               "RelativeDocumentMoniker": "Profilemodel.cs",
@@ -206,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.API\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\Profile.API\\appsettings.json",
@@ -218,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Profile.MVC.csproj",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Profile.MVC.csproj",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Profile.MVC.csproj",
@@ -230,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\Views\\ProfileMVC\\Login.cshtml",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\Views\\ProfileMVC\\Login.cshtml",
@@ -242,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Profile.Repository.csproj",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Repository\\Profile.Repository.csproj",
               "RelativeDocumentMoniker": "..\\..\\Profile.Repository\\Profile.Repository.csproj",
@@ -254,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Shared\\Login.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Shared\\Login.cs",
@@ -266,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Shared\\Register.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Shared\\Register.cs",
@@ -278,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "..\\..\\Profile.MVC\\appsettings.json",
@@ -290,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ProfileInterface.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Repository\\ProfileInterface.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Repository\\ProfileInterface.cs",
@@ -302,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Sqlcontext.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Data\\Sqlcontext.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Data\\Sqlcontext.cs",
@@ -314,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Profile.Data.csproj",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Data\\Profile.Data.csproj",
               "RelativeDocumentMoniker": "..\\..\\Profile.Data\\Profile.Data.csproj",
@@ -326,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "dzkihyl5.sql",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Data\\obj\\Debug\\net8.0\\dzkihyl5.sql",
               "RelativeDocumentMoniker": "..\\..\\Profile.Data\\obj\\Debug\\net8.0\\dzkihyl5.sql",
@@ -337,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "20260804163310_a.cs",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile.Data\\Migrations\\20260804163310_a.cs",
               "RelativeDocumentMoniker": "..\\..\\Profile.Data\\Migrations\\20260804163310_a.cs",
@@ -349,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "profile.csproj",
               "DocumentMoniker": "C:\\Users\\mishr\\Desktop\\Project\\Profile Project\\Profile\\profile.csproj",
               "RelativeDocumentMoniker": "profile.csproj",
@@ -357,7 +425,8 @@
               "RelativeToolTip": "profile.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-04T15:47:33.646Z"
+              "WhenOpened": "2026-08-04T15:47:33.646Z",
+              "EditorCaption": ""
             }
           ]
         }
