@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using profile;
@@ -8,18 +9,22 @@ using Profile.Shared;
 
 namespace Profile.API.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
+    
     public class ProfileAPIController : ControllerBase
     {
         private readonly ProfileInterface _profileInterface;
         private readonly UserManager<Profilemodel> _userManager;
         private readonly SignInManager<Profilemodel> _signinmanager;
-        public ProfileAPIController(ProfileInterface profileInterface, UserManager<Profilemodel> userManager, SignInManager<Profilemodel> signinmanager)
+        private readonly IConfiguration _configuration;
+        public ProfileAPIController(ProfileInterface profileInterface, UserManager<Profilemodel> userManager, SignInManager<Profilemodel> signinmanager, IConfiguration configuration)
         {
             _profileInterface = profileInterface;
             _signinmanager = signinmanager;
             _userManager = userManager;
+            _configuration = configuration;
         }
         [HttpPost("[action]")]
         public async Task<IActionResult> CreateProfile(Register register)
@@ -47,7 +52,7 @@ namespace Profile.API.Controllers
             var createprofile = await _profileInterface.DeleteProfile(Id);
             return Ok();
         }
-
+        [AllowAnonymous]
         [HttpPost("[action]")]
         public async Task<IActionResult> Login(Login login)
         {
@@ -63,15 +68,17 @@ namespace Profile.API.Controllers
                 false,
                 false
             );
-            JWTValue jwtService = new JWTValue();
+            JWTValue jwtService = new JWTValue(_configuration);
             var token = jwtService.GenerateJwtToken(login.username, login.role);
+            var refreshtoken = jwtService.GenerateRefreshToken() ?? "";
             if (!result.Succeeded)
                 return Unauthorized("Invalid username or password");
 
             return Ok(new
             {
                 Message = "Login successful",
-                Token = token
+                Token = token,
+                RefreshToken = refreshtoken
             });
         }
     }

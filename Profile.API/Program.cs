@@ -1,9 +1,11 @@
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using profile;
 using Profile.Data;
 using Profile.Repository;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,8 +22,11 @@ builder.Services.AddIdentity<Profilemodel, IdentityRole>()
     .AddDefaultTokenProviders();
 builder.Services.AddScoped<ProfileInterface, ProfileInterfaceImplement>();
 
-builder.Services.AddAuthentication("Bearer")
-    .AddJwtBearer("Bearer", options =>
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer("Bearer", options =>
     {
         options.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
         {
@@ -29,11 +34,10 @@ builder.Services.AddAuthentication("Bearer")
             ValidateAudience = true,
             ValidateLifetime = true,
             ValidateIssuerSigningKey = true,
-
-            ValidIssuer = "yourIssuer",          // e.g. "https://localhost:5001"
-            ValidAudience = "yourAudience",      // e.g. "https://localhost:5001"
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            ValidAudience = builder.Configuration["Jwt:Audience"],
             IssuerSigningKey = new SymmetricSecurityKey(
-                System.Text.Encoding.UTF8.GetBytes("superSecretKey@12345678testthekeyJWT")) // secret key
+            Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
         };
     });
 var app = builder.Build();
