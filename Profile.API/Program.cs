@@ -5,6 +5,7 @@ using Microsoft.IdentityModel.Tokens;
 using profile;
 using Profile.Data;
 using Profile.Repository;
+using Profiles.API.DTOMapping;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -21,7 +22,7 @@ builder.Services.AddIdentity<Profilemodel, IdentityRole>()
     .AddEntityFrameworkStores<Sqlcontext>()
     .AddDefaultTokenProviders();
 builder.Services.AddScoped<ProfileInterface, ProfileInterfaceImplement>();
-
+builder.Services.AddAutoMapper(typeof(ProfileMapping));
 builder.Services.AddAuthentication(options =>
 {
     options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;

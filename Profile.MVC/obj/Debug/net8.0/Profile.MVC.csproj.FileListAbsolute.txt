@@ -308,3 +308,4 @@ C:\Users\mishr\Desktop\Project\Profile Project\Profile.MVC\obj\Debug\net8.0\refi
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.MVC\obj\Debug\net8.0\Profile.MVC.pdb
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.MVC\obj\Debug\net8.0\Profile.MVC.genruntimeconfig.cache
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.MVC\obj\Debug\net8.0\ref\Profile.MVC.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.MVC\obj\Debug\net8.0\Profile.MVC.sourcelink.json

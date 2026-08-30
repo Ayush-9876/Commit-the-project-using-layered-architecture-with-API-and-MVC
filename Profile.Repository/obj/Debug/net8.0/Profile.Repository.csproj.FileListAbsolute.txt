@@ -36,3 +36,4 @@ C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\refint\Profile.Repository.dll
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.pdb
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\ref\Profile.Repository.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Repository\obj\Debug\net8.0\Profile.Repository.sourcelink.json

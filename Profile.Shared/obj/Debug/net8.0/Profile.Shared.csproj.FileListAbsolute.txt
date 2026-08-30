@@ -20,3 +20,4 @@ C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\P
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\refint\Profile.Shared.dll
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.pdb
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\ref\Profile.Shared.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.Shared\obj\Debug\net8.0\Profile.Shared.sourcelink.json

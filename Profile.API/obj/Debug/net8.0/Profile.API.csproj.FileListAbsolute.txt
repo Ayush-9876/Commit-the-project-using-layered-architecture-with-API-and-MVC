@@ -321,3 +321,5 @@ C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Prof
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Profile.API.genruntimeconfig.cache
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\ref\Profile.API.dll
 C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\obj\Debug\net8.0\Profile.API.sourcelink.json
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mishr\Desktop\Project\Profile Project\Profile.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

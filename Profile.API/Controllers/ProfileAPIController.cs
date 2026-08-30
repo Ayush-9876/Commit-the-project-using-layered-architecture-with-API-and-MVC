@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -19,12 +20,14 @@ namespace Profile.API.Controllers
         private readonly UserManager<Profilemodel> _userManager;
         private readonly SignInManager<Profilemodel> _signinmanager;
         private readonly IConfiguration _configuration;
-        public ProfileAPIController(ProfileInterface profileInterface, UserManager<Profilemodel> userManager, SignInManager<Profilemodel> signinmanager, IConfiguration configuration)
+        private readonly IMapper _mapper;
+        public ProfileAPIController(IMapper mapper,ProfileInterface profileInterface, UserManager<Profilemodel> userManager, SignInManager<Profilemodel> signinmanager, IConfiguration configuration)
         {
             _profileInterface = profileInterface;
             _signinmanager = signinmanager;
             _userManager = userManager;
             _configuration = configuration;
+            _mapper = mapper;
         }
         [HttpPost("[action]")]
         public async Task<IActionResult> CreateProfile(Register register)
@@ -43,7 +46,11 @@ namespace Profile.API.Controllers
         public async Task<IActionResult> GetAllProfiles()
         {
             var createprofile = await _profileInterface.GetAllProfiles();
-            return Ok(createprofile);
+            //return Ok(createprofile);
+            var dtoList = _mapper.Map<List<UserDto>>(createprofile);
+
+            return Ok(dtoList);
+
         }
 
         [HttpDelete("[action]")]
